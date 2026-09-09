@@ -2,9 +2,9 @@
 
 ## Files
 
-* **generalDataExploration.ipynb**: I used this notebook to gain a general understanding of the data. All of the visuals contrained in the PDF document (the final report) were created using this code. Visualisations include bar charts and pie charts.
+* **generalDataExploration.ipynb**: I used this notebook to gain a general understanding of the data. All of the visuals contained in the PDF document (the final report) were created using this code. Visualisations include bar charts and pie charts.
 * **classifierModels.ipynb**: This is the actual notebook that contains my random forest models which I used for this project.
-* **Final Project Report.pdf**: This is a PDF paper about the code in this repository. I used LateX to compille it, but a similar effect can be acheved using IEEE 2026 Word Template as well.
+* **Final Project Report.pdf**: This is a PDF paper about the code in this repository. I used LaTeX to compile it, but a similar effect can be achieved using IEEE 2026 Word Template as well.
 * **requirements.txt**: Contains the names of the dependencies necessary to run the notebooks.
 
 
